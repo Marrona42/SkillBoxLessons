@@ -1,0 +1,85 @@
+﻿<Window x:Class="SkillboxCSharpHW9.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SkillboxCSharpHW9"
+        mc:Ignorable="d"
+        Title="Домашка номер 9" 
+        Height="450" 
+        Width="800"
+        MinHeight="450"
+        MinWidth="800"
+        MaxHeight="450"
+        MaxWidth="800"      
+        >
+
+
+    <Grid>
+        <TabControl>
+
+            <TabItem Header="Первая часть задания">
+                <Grid Background="#FFE5E5E5">
+                    <TextBox x:Name="TextBox1" HorizontalAlignment="Left" 
+                             TextWrapping="Wrap"  
+                             VerticalAlignment="Top" 
+                             Width="469" 
+                             Height="49" 
+                             Margin="315,48,0,0" 
+                             />
+
+                    <ListBox x:Name="ListBox" 
+                             Margin="10,102,10,10"
+                             />
+
+                    <Button x:Name="Button1" 
+                            Content="Вывести текст вниз" 
+                            HorizontalAlignment="Left" 
+                            VerticalAlignment="Top" 
+                            Height="87" 
+                            Width="300" 
+                            Margin="10,10,0,0" Click="Button1_Click"
+                            />
+                    <TextBlock HorizontalAlignment="Left" 
+                               Margin="315,10,0,0" 
+                               TextWrapping="Wrap" 
+                               Text="Введи текст внизу для его вывода в Лист" 
+                               VerticalAlignment="Top" 
+                               Height="33" 
+                               Width="469"/>
+
+                </Grid>
+            </TabItem>
+
+            <TabItem Header="Вторая часть задания">
+                <Grid Background="#FFE5E5E5">
+                    <Label x:Name="Label" 
+                        HorizontalAlignment="Left" 
+                        Margin="10,203,0,0" 
+                        VerticalAlignment="Top" 
+                        Height="193" 
+                        Width="703"/>
+
+                    <Button x:Name="Button2" 
+                            Content="Реверс" 
+                            HorizontalAlignment="Left" 
+                            Margin="718,0,0,0" 
+                            VerticalAlignment="Center" 
+                            Height="386" 
+                            Width="66" 
+                            Click="Button2_Click"/>
+                    
+                    <TextBox x:Name="TextBox2" 
+                             HorizontalAlignment="Left" 
+                             Margin="10,10,0,0" 
+                             TextWrapping="Wrap" 
+
+                             VerticalAlignment="Top" 
+                             Width="703" 
+                             Height="193"/>
+                </Grid>
+            </TabItem>
+
+        </TabControl>
+    </Grid>
+</Window>

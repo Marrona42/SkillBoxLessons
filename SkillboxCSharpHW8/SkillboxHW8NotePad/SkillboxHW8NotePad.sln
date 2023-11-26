@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkillboxHW8NotePad", "SkillboxHW8NotePad.csproj", "{D326BFC5-8F01-4706-90D7-2CB4FEB4BA1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D326BFC5-8F01-4706-90D7-2CB4FEB4BA1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D326BFC5-8F01-4706-90D7-2CB4FEB4BA1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D326BFC5-8F01-4706-90D7-2CB4FEB4BA1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D326BFC5-8F01-4706-90D7-2CB4FEB4BA1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {598DF31B-6854-4990-BF52-8C98733269A4}
+	EndGlobalSection
+EndGlobal

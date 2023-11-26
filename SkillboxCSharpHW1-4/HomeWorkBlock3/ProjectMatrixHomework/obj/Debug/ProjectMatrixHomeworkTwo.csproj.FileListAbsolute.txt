@@ -1,0 +1,8 @@
+C:\Git\Git\ProjectMatrixHomework\bin\Debug\ProjectMatrixHomework.exe.config
+C:\Git\Git\ProjectMatrixHomework\bin\Debug\ProjectMatrixHomework.exe
+C:\Git\Git\ProjectMatrixHomework\bin\Debug\ProjectMatrixHomework.pdb
+C:\Git\Git\ProjectMatrixHomework\obj\Debug\ProjectMatrixHomeworkTwo.csproj.AssemblyReference.cache
+C:\Git\Git\ProjectMatrixHomework\obj\Debug\ProjectMatrixHomeworkTwo.csproj.SuggestedBindingRedirects.cache
+C:\Git\Git\ProjectMatrixHomework\obj\Debug\ProjectMatrixHomeworkTwo.csproj.CoreCompileInputs.cache
+C:\Git\Git\ProjectMatrixHomework\obj\Debug\ProjectMatrixHomework.exe
+C:\Git\Git\ProjectMatrixHomework\obj\Debug\ProjectMatrixHomework.pdb

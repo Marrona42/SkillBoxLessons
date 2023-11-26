@@ -1,0 +1,8 @@
+C:\Git\Git\HomeworkP3\obj\Debug\HomeworkP3.csproj.AssemblyReference.cache
+C:\Git\Git\HomeworkP3\obj\Debug\HomeworkP3.csproj.SuggestedBindingRedirects.cache
+C:\Git\Git\HomeworkP3\obj\Debug\HomeworkP3.csproj.CoreCompileInputs.cache
+C:\Git\Git\HomeworkP3\bin\Debug\HomeworkP3.exe.config
+C:\Git\Git\HomeworkP3\bin\Debug\HomeworkP3.exe
+C:\Git\Git\HomeworkP3\bin\Debug\HomeworkP3.pdb
+C:\Git\Git\HomeworkP3\obj\Debug\HomeworkP3.exe
+C:\Git\Git\HomeworkP3\obj\Debug\HomeworkP3.pdb

@@ -1,0 +1,8 @@
+C:\Git\Git\LifeGame\bin\Debug\LifeGame.exe.config
+C:\Git\Git\LifeGame\bin\Debug\LifeGame.exe
+C:\Git\Git\LifeGame\bin\Debug\LifeGame.pdb
+C:\Git\Git\LifeGame\obj\Debug\LifeGame.csproj.AssemblyReference.cache
+C:\Git\Git\LifeGame\obj\Debug\LifeGame.csproj.SuggestedBindingRedirects.cache
+C:\Git\Git\LifeGame\obj\Debug\LifeGame.csproj.CoreCompileInputs.cache
+C:\Git\Git\LifeGame\obj\Debug\LifeGame.exe
+C:\Git\Git\LifeGame\obj\Debug\LifeGame.pdb

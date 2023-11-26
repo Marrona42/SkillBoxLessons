@@ -1,0 +1,8 @@
+C:\Git\Git\MyFirstGitProject\bin\Debug\MyFirstGitProject.exe.config
+C:\Git\Git\MyFirstGitProject\bin\Debug\MyFirstGitProject.exe
+C:\Git\Git\MyFirstGitProject\bin\Debug\MyFirstGitProject.pdb
+C:\Git\Git\MyFirstGitProject\obj\Debug\MyFirstGitProject.csproj.AssemblyReference.cache
+C:\Git\Git\MyFirstGitProject\obj\Debug\MyFirstGitProject.csproj.SuggestedBindingRedirects.cache
+C:\Git\Git\MyFirstGitProject\obj\Debug\MyFirstGitProject.csproj.CoreCompileInputs.cache
+C:\Git\Git\MyFirstGitProject\obj\Debug\MyFirstGitProject.exe
+C:\Git\Git\MyFirstGitProject\obj\Debug\MyFirstGitProject.pdb
